@@ -72,6 +72,7 @@ Use Hive when you need:
 - **[Documentation](https://docs.adenhq.com/)** - Complete guides and API reference
 - **[Self-Hosting Guide](https://docs.adenhq.com/getting-started/quickstart)** - Deploy Hive on your infrastructure
 - **[Changelog](https://github.com/adenhq/hive/releases)** - Latest updates and releases
+- **[Community Discord](https://discord.gg/MXE49hrKDk)** - Join the discussion and get support
 - **[Roadmap](docs/roadmap.md)** - Upcoming features and plans
 - **[Report Issues](https://github.com/adenhq/hive/issues)** - Bug reports and feature requests
 - **[Contributing](CONTRIBUTING.md)** - How to contribute and submit PRs
